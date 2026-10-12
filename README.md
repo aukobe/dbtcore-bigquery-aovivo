@@ -1,3 +1,1 @@
 # dbtcore-bigquery-aovivo
-
-oii
